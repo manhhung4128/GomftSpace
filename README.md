@@ -17,6 +17,14 @@
 
 A nightly transfer fails with a short, cryptic error. Someone has to read the logs, work out whether it is a token, a path or a permission, and guess at a fix. For a small IT team this happens often, and it eats hours.
 
+## Why Claude
+
+- **Reads long, messy logs.** Transfer failures bury the real cause in pages of output.
+- **Explains in plain language.** Useful for teams without a dedicated specialist.
+- **Returns structured results.** The app checks the answer before showing it.
+- **Follows limits.** Claude only recommends. It never applies changes by itself.
+- **Cost stays low.** Simple cases use smaller models, and repeated context is cached.
+
 ## What GoMFT AI does
 
 ### Claude, with guardrails (in development)
