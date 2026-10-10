@@ -1,3 +1,5 @@
+<p align="center"><img src="screenshots/logo.svg" width="72" alt="GoMFT AI logo"></p>
+
 <h1 align="center">GoMFT AI</h1>
 <h3 align="center">AI-assisted managed file transfer for small IT teams</h3>
 
@@ -44,6 +46,15 @@ A nightly transfer fails with a short, cryptic error. Someone has to read the lo
 - **Teams and access:** roles and permissions, single sign-on, two-factor sign-in, audit log.
 - **Admin tools:** live log viewer, backup and restore, system stats.
 - **Light and dark mode.**
+
+## Preview
+
+Concept mockups with sample data. The Claude features are in development.
+
+| | |
+|---|---|
+| ![Dashboard](screenshots/dashboard.png)<br>**Dashboard.** Every transfer at a glance. | ![Run history](screenshots/history.png)<br>**Run history.** Explain button on failed runs. |
+| ![Claude explanation](screenshots/explain.png)<br>**Claude explains.** Plain-language cause and checks. | ![Safe fixes](screenshots/approve.png)<br>**Safe fixes.** Impact and risk, you approve. |
 
 ## Plans
 
