@@ -1,6 +1,6 @@
-<p align="center"><img src="screenshots/logo.svg" width="72" alt="GoMFT AI logo"></p>
+<p align="center"><img src="screenshots/logo.svg" width="72" alt="GomftSpace logo"></p>
 
-<h1 align="center">GoMFT AI</h1>
+<h1 align="center">GomftSpace</h1>
 <h3 align="center">AI-assisted managed file transfer for small IT teams</h3>
 
 <p align="center">
@@ -25,7 +25,7 @@ A nightly transfer fails with a short, cryptic error. Someone has to read the lo
 - **Follows limits.** Claude only recommends. It never applies changes by itself.
 - **Cost stays low.** Simple cases use smaller models, and repeated context is cached.
 
-## What GoMFT AI does
+## What GomftSpace does
 
 ### Claude, with guardrails (in development)
 
@@ -75,7 +75,7 @@ Concept mockups with sample data. The Claude features are in development.
 | Workflows from plain language | | | ✓ |
 | Support | Community | Email | Priority |
 
-Paid plans are **not on sale yet** and prices may change before launch. To join early access, email [contact@gomft.space](mailto:contact@gomft.space?subject=GoMFT%20AI%20early%20access).
+Paid plans are **not on sale yet** and prices may change before launch. To join early access, email [contact@gomft.space](mailto:contact@gomft.space?subject=GomftSpace%20early%20access).
 
 ## Roadmap
 
@@ -92,4 +92,4 @@ We will publish results only when we have measured them.
 
 [contact@gomft.space](mailto:contact@gomft.space) · [gomft.space](https://gomft.space)
 
-Claude is a trademark of Anthropic. GoMFT AI is not affiliated with Anthropic.
+Claude is a trademark of Anthropic. GomftSpace is built by Gomft Space Solutions and is not affiliated with Anthropic.
